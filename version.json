@@ -1,7 +1,8 @@
 {
-  "versionCode": 220529,
-  "versionName": "22.5.29",
-  "apkUrl": "https://github.com/AAPKA-USERNAME/habibi-updates/releases/download/v22.5.29/app.apk",
-  "notes": "Naye themes aur bug fixes",
-  "force": false
+  "versionCode": 220528,
+  "versionName": "22.5.28",
+  "apkUrl": "https://github.com/habibir52536/habibi-updates/releases/download/v22.5.28/habibi-r5.apk",
+  "notes": "First version",
+  "force": false,
+  "sha256": ""
 }
